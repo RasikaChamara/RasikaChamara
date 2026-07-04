@@ -47,4 +47,5 @@ A cross-platform mobile application designed to streamline the career applicatio
 
 ### 🤝 Connect With Me
 * 💼 **LinkedIn:** [linkedin.com/in/chamara-rasika-254b6b26a](https://www.linkedin.com/in/chamara-rasika-254b6b26a)
+* 📧 **Web:** [https://chamara-rasika.netlify.app](https://chamara-rasika.netlify.app)
 * 📧 **Email:** [rasikacbandara1593@gmail.com](mailto:rasikacbandara1593@gmail.com)
